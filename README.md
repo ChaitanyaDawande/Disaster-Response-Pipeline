@@ -15,4 +15,9 @@
 
 Screenshot of the Flask application is given below:
 
+![image](https://user-images.githubusercontent.com/11819180/94226139-d2afc080-fec4-11ea-9d0b-d430fab048cd.png)
+
+
+
+
 
